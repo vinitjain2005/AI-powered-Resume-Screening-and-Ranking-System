@@ -12,7 +12,7 @@ Whether you're a recruiter looking to simplify your workload or a developer inte
 2. **Navigate to the Project Directory in Your Terminal:**  
    Open VS Code’s integrated terminal and run:
    ```bash
-   "cd "C:\Users\YourUsername\Desktop\your_repo"
+   cd "C:\Users\YourUsername\Desktop\your_repo"
 
 3. Run the Application Using Streamlit:
    You can start the app with one of the following commands:

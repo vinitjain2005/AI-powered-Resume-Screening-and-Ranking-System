@@ -68,7 +68,7 @@ def suggest_improvements(text):
         improvements.append("Your resume is well-structured! Consider optimizing it further with strong action verbs and measurable achievements.")
     return improvements
 
-#Button 
+#button
 if st.button("📊 Analyze Resumes"):
     if not job_description.strip():
         st.error("⚠️ Please enter a job description.")

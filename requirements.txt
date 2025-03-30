@@ -6,3 +6,4 @@ nltk
 pdfplumber
 PyMuPDF
 joblib
+PyPDF2

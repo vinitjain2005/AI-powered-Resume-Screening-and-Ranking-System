@@ -16,6 +16,9 @@ This project is an **AI-powered Resume Screening and Candidate Ranking System** 
   - **AI-powered resume improvement suggestions**.
   - **Detailed extracted resume content display**.
 
+## 🌍 Live Demo  
+🚀 **Try it out here** → [AI-Powered Resume Screening](https://ai-powered-resume-screening.streamlit.app/)
+
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
